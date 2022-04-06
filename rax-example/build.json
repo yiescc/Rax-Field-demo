@@ -1,0 +1,11 @@
+{
+  "targets": [
+    "web"
+  ],
+  "webpack5": true,
+  "web": {
+    "mpa": true,
+    "pha": true
+  },
+  "plugins": []
+}
